@@ -18,7 +18,7 @@ The goal of this project is to build a reliable text-based classifier that can d
 
 ## 📁 Dataset  
 ---
-Dataset used: [Kaggle Fake News Dataset](https://www.kaggle.com/c/fake-news/data)
+Dataset used: [Kaggle Fake News Dataset](https://www.kaggle.com/datasets/rushiakbari/fake-news-detection)
 
 **Features:**
 
